@@ -9,4 +9,4 @@ twitter_username: twitter # 不要包含 @ 字符，否则构建将失败！
 github_username:  junjieweb # 不要包含 @ 字符，否则构建将失败！
 
 show_excerpts: true # 设置为 false 以删除主页上的摘录
-theme: Adam Blog ver2.0
+theme: minima
